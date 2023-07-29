@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "64bdefe819c79de3fd3115a8"
+  },
+  "nombre": "Omar Hernandez",
+  "correo": "omar@hernandez.com",
+  "password": "$2a$08$zICavGIKAvGI2cakFc8oleXNrAvOiOvbcIewpA2qknE66EWxpScCK"
+},
+{
+  "_id": {
+    "$oid": "64bdf66ba92f3963b5653cb2"
+  },
+  "nombre": "Luis Martinez",
+  "correo": "luis@fern.com",
+  "password": "$2a$08$5FFvjzH1ufHwNNYf4x7jvu6STQOP/EXBsgW5fT58/GY1dMY6qJrdu"
+}]

@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "64bdcb3619c79de3fd30fc76"
+  },
+  "marca": "Xiaomi",
+  "modelo": "REDMI 5",
+  "color": "Negro claro",
+  "imagen": "/uploads/1689964418011.png",
+  "precio": "110.00",
+  "caracteristicas": "Procesador Snapdragon 450 1.8GHz.",
+  "review": "Es un muy buen celular *-* "
+},
+{
+  "_id": {
+    "$oid": "64bdd5d319c79de3fd31030a"
+  },
+  "marca": "Alcatel",
+  "modelo": "Alcatel 1",
+  "color": "Negro",
+  "imagen": "/uploads/1689964483209.png",
+  "precio": "79.99",
+  "caracteristicas": "Posee una batería de 2000 mAh",
+  "review": "Soy developer y no me funciona este celular *-* "
+},
+{
+  "_id": {
+    "$oid": "64bdd5f219c79de3fd31032b"
+  },
+  "marca": "ASUS",
+  "modelo": "ROG Phone 6",
+  "color": "Rojo",
+  "imagen": "/uploads/1689964557375.png",
+  "precio": "1000.00",
+  "caracteristicas": "Gran pantalla de 1080 x 2448 pixeles",
+  "review": "Funcional para estudiantes *-* "
+},
+{
+  "_id": {
+    "$oid": "64bdd60f19c79de3fd310349"
+  },
+  "marca": "Google",
+  "modelo": "Pixel 5",
+  "color": "Negro",
+  "imagen": "/uploads/1689964810055.png",
+  "precio": "550.00",
+  "caracteristicas": "Tiene una cámara de 12 MP y almacenamiento de 128 GB",
+  "review": "Muy buen celular *-* "
+},
+{
+  "_id": {
+    "$oid": "64bdd62b19c79de3fd31035f"
+  },
+  "marca": "Xiaomi",
+  "modelo": "REDMI 5A",
+  "color": "Azul",
+  "imagen": "/uploads/1689966004456.png",
+  "precio": "106.00",
+  "caracteristicas": "Es un bonito celular con cámara de 13 MP",
+  "review": "Es un celular económico, le dura mucho la batería *-* A mi parecer es un celular muy bueno pero le falta más brillo a la pantalla*-* "
+}]

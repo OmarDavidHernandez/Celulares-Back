@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "64bdfc2a19c79de3fd311f25"
+  },
+  "nombre": "Marcas favoritas",
+  "preguntas": [
+    "¿Cuál es tu preferencia con Apple?",
+    "¿Cuál es tu preferencia con los Samsung?",
+    "¿Cómo calificas tu experiencia con alcatel?",
+    "¿Te sientes a gusto con un Nokia X?"
+  ],
+  "respuestas": [
+    {
+      "pregunta": 0,
+      "respuesta": "2"
+    },
+    {
+      "pregunta": 1,
+      "respuesta": "2"
+    },
+    {
+      "pregunta": 2,
+      "respuesta": "2"
+    },
+    {
+      "pregunta": 3,
+      "respuesta": "2"
+    },
+    {
+      "pregunta": 0,
+      "respuesta": "3"
+    },
+    {
+      "pregunta": 1,
+      "respuesta": "3"
+    },
+    {
+      "pregunta": 2,
+      "respuesta": "3"
+    },
+    {
+      "pregunta": 3,
+      "respuesta": "3"
+    },
+    {
+      "pregunta": 0,
+      "respuesta": "5"
+    },
+    {
+      "pregunta": 1,
+      "respuesta": "4"
+    },
+    {
+      "pregunta": 2,
+      "respuesta": "5"
+    },
+    {
+      "pregunta": 3,
+      "respuesta": "4"
+    },
+    {
+      "pregunta": 0,
+      "respuesta": "5"
+    },
+    {
+      "pregunta": 1,
+      "respuesta": "4"
+    },
+    {
+      "pregunta": 2,
+      "respuesta": "3"
+    },
+    {
+      "pregunta": 3,
+      "respuesta": "4"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64bdfc3d19c79de3fd311f39"
+  },
+  "nombre": "Nuevo Alcatel One",
+  "preguntas": [
+    "¿Cómo calificas el diseño?",
+    "¿La relación costo - beneficio es bueno?",
+    "¿Qué tanto te agradan sus colores?"
+  ],
+  "respuestas": [
+    {
+      "pregunta": 0,
+      "respuesta": "5"
+    },
+    {
+      "pregunta": 1,
+      "respuesta": "5"
+    },
+    {
+      "pregunta": 2,
+      "respuesta": "5"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64beb683ace801e5f6448671"
+  },
+  "nombre": "Gamma Alta",
+  "preguntas": [],
+  "respuestas": []
+}]
